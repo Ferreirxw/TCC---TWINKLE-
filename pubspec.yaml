@@ -1,0 +1,64 @@
+name: main_aplicativo
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^0.8.2
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.0.9
+  mobile_scanner: ^6.0.2
+  url_launcher: ^6.0.20
+  mailer: ^6.0.0
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logoo.png
+    - assets/inicial.gif
+    - assets/inicial2.gif
+    - assets/twinkle.png
+    - assets/icon.gif
+    - assets/lingua.png
+    - assets/matematica.png
+    - assets/ciencias.png
+    - assets/artes.png
+    - assets/exercicios.png
+    - assets/quiz.gif
+    - assets/games.gif
+    - assets/teste.gif
+    - assets/port.png
+    - assets/mat.png
+    - assets/geo.png
+    - assets/hist.png
+    - assets/extras.png
+    - assets/cienc.png
+    - assets/art.png
+    - assets/ing.png
+    - assets/ed.png
+    - assets\tw.gif
+    - assets/TWINKLE (1).png
+    - assets/boy.gif
+    - assets\quiz (1).gif
+    - assets/ensino.png
+    - assets/icon.webp
+    - assets/AR.webp
+    - assets/character.gif
+
